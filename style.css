@@ -1,0 +1,40 @@
+body{
+  background: linear-gradient(to bottom right, black,#767170);
+}
+header{
+  color: white;
+  text-align: center;
+}
+  header h1{
+    text-shadow: 5px 5px 5px black;
+  }
+main{
+  align-content: center;
+  display:inline-block;
+  padding:150px;
+  padding-top:80px;
+  padding-bottom:10px;
+}
+div{
+  display: inline-block;
+  border: 1px solid white;
+  height:210px;
+  width:185px;
+
+}
+  img{
+    height:200px;
+    width:175px;
+    display:inline-block;
+    padding-top:10px;
+  }
+
+button{
+  background: darkblue;
+  border-radius: 15px;
+  height:50px;
+  width:75px;
+  box-shadow: 3px 3px black;
+  color:white;
+  
+}
